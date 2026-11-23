@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Crear API REST",
+    "responsable": "Ana",
+    "prioridad": "Alta",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 2,
+    "descripcion": "Diseñar interfaz",
+    "responsable": "Pedro",
+    "prioridad": "Media",
+    "estado": "En progreso"
+  },
+  {
+    "id": 3,
+    "descripcion": "Preparar documentación",
+    "responsable": "Laura",
+    "prioridad": "Baja",
+    "estado": "Finalizada"
+  },
+  {
+    "id": 4,
+    "descripcion": "Realizar pruebas",
+    "responsable": "Ana",
+    "prioridad": "Alta",
+    "estado": "Pendiente"
+  }
+]
